@@ -1,2 +1,4 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2224&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=ben2224&count_private=true&theme=dark&show_icons=true)
+
+![Contribs](https://github-readme-streak-stats.herokuapp.com/?user=ben2224&count_private=true&theme=dark) 
